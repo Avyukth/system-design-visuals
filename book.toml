@@ -10,7 +10,6 @@ title = "System-design-visuals"
 default-theme = "latte"
 preferred-dark-theme = "latte-dark"
 additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css"]
-cname = "systems.pathshala.academy"
 
 
 [output.html.search]
