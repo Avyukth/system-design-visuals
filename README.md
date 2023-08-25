@@ -17,9 +17,13 @@ As systems grow more complex, it's imperative to have a robust and comprehensibl
 
 1. Clone the repository:
 
-   ```bash
+---
+
+```bash
    git clone https://github.com/avyukth/system-design-visuals.git
-   ```
+```
+
+---
 
 2. Navigate to the directory and explore the designs!
 
@@ -30,7 +34,3 @@ Feel free to fork the project, open an issue, or submit a pull request. All cont
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-© 2023 [patshala.academy](https://systems.patshala.academy). All rights reserved
