@@ -33,12 +33,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Cache Rust toolchain
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.cargo
           key: rust-toolchain-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
       - name: Cache mdBook
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.cargo/bin/mdbook
           key: mdbook-${{ env.MDBOOK_VERSION }}
