@@ -24,5 +24,5 @@ assets_version = "0.2.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
 editable = false
 
 [output.html.print]
-enable = true     # include support for printable output
+enable = true
 page-break = true # insert page-break after each chapter
